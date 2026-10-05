@@ -8,9 +8,12 @@ pip install sphinx  # для документации
 ```
 
 ## Запуск
-```python demo.py
+```
+python demo.py
 ```
 
 ## Сборка документации
-```cd docs
-make html```
+```
+cd docs
+make html
+```
